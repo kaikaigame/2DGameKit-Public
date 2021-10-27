@@ -10,7 +10,7 @@ Free Assets downloaded from
   
 https://assetstore.unity.com/packages/templates/tutorials/2d-game-kit-107098  
   
-Unity m_EditorVersion:  2021.1.20f1  
+Unity m_EditorVersion:  2021.2.0f1  
   
 KEYBOARD  
   
